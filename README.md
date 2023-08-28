@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Frameworks and Libraries.<br>🎯 Goals: Devops Engineer.</p>
+<p align="left">📚 I'm currently learning Frameworks and Libraries.<br>🎯 Goals: AI Engineer.</p>
 
 ###
 
