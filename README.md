@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Frameworks and Libraries.<br>🎯 Goals: AI Engineer.</p>
+<p align="left">📚 I'm currently learning Frameworks and Libraries.<br>🎯 Goals: Rich.</p>
 
 ###
 
@@ -38,14 +38,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/prakashls/prakashls/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://example.com](https://www.linkedin.com/in/prakash-ls">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
 </div>
 
 ###
