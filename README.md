@@ -51,12 +51,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
@@ -68,4 +62,4 @@
   </a>
 </p>
 
-📧 your.email@example.com
+📧 lsprakash1709@gmail.com
